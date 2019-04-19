@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CacheJ" />
+        <module name="Ehcache" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CacheJ" target="1.5" />
+      <module name="Ehcache" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

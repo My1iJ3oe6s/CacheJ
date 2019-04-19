@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CacheJ.iml" filepath="$PROJECT_DIR$/CacheJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ehcache/Ehcache.iml" filepath="$PROJECT_DIR$/Ehcache/Ehcache.iml" />
     </modules>
   </component>
 </project>
